@@ -109,3 +109,16 @@
     margin-top: 30px;
     color: grey;
 }
+
+.three{
+    display: flex;
+}
+
+.col-1-2{
+    flex-basis: calc((100% / 2) * 1);
+    max-width: calc((100% / 2) * 1);
+}
+
+.ps5{
+    width: 50%;
+}
