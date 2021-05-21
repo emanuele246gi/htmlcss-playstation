@@ -74,3 +74,17 @@
     height: 100%;
     border-radius: 20px;
 }
+
+.box-games:hover{
+    margin-top: 15px;
+    transition: 0.3s;
+    border: 2px solid green;
+    height: 105px;
+    width: 210px;
+    margin-left: 10%;
+}
+
+.box-games:hover{
+    transition: 0.3s;
+    border: 2px solid green;
+}
