@@ -10,7 +10,7 @@
     margin: auto;
 }
 
-.row {
+.one {
     display: flex;
     flex-wrap: wrap;
     width: 100%;
@@ -50,7 +50,6 @@
 }
 
 .two{
-    background-color: white;
     display: flex;
     justify-content: center;
 }
@@ -87,4 +86,26 @@
 .box-games:hover{
     transition: 0.3s;
     border: 2px solid green;
+}
+
+.three{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 150px;
+
+}
+
+.box-ps5{
+    text-transform: uppercase;
+    color: rgb(0, 63, 211);
+}
+
+.box-ps5-uno{
+    font-size: 40px;
+}
+
+.box-ps5-due{
+    font-size: 30px;
+    margin-top: 30px;
+    color: grey;
 }
