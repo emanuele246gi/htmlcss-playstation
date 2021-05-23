@@ -52,16 +52,16 @@
 
 .returnal{
     width: 60%;
-    margin-left: 30px;
+    margin-left: 38px;
 }
 
 .text-returnal{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     max-width: 420px;
-    margin-left: 40px;
+    margin-left: 48px;
     font-size: 20px;
-    line-height: 25px;
+    line-height: 30px;
 }
 
 .text-returnal-title{
@@ -69,7 +69,7 @@
 }
 
 button{
-    padding: 14px;
+    padding: 15px;
     font-size: 18px;
     border-radius: 25px;
     border: 0;
@@ -91,7 +91,7 @@ button{
     justify-content: center;
 }
 
-.col-1 {
+.col-1-6 {
     flex-basis: calc((100% / 6) * 1);
     max-width: calc((100% / 6) * 1);
 }
@@ -159,9 +159,59 @@ button{
     max-width: calc((100% / 2) * 1);
 }
 
+.box-console{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+.box-console-titolo{
+    padding-bottom: 30px;
+}
+
+.box-console-descrizione{
+    color: gray;
+}
+
+.pulsante-due{
+    margin-top: 30px;
+    background-color: rgb(65, 65, 255);
+}
+
 .ps5{
     width: 90%;
     background-position: top;
+    vertical-align: middle;
+}
+
+.five{
+    justify-content: space-evenly;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.dispositivo{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.descrizione-dispositivo{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 200px;
+}
+
+.col-1 {
+    flex-basis: calc((100% / 6) * 1);
+    max-width: calc((100% / 6) * 1);
+    padding-bottom: 10px;
+    border-bottom: 2px solid white;
+}
+
+.col-1:hover{
+    border-bottom: 2px solid rgb(65, 65, 255);
 }
 
 .quattro{
@@ -173,7 +223,32 @@ button{
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
+    position: relative;
 }
+
+.secondo{
+    position: absolute;
+    bottom: 90px;
+}
+
+.returnal{
+    width: 60%;
+    margin-left: 38px;
+}
+
+.text-returnal{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 420px;
+    margin-left: 48px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.text-returnal-title{
+    font-size: 30px;
+}
+
 
 .cinque{
     background-color: rgb(36, 36, 36);
