@@ -359,8 +359,61 @@ button{
     width: 96vh;
 }
 
+.thirteen{
+    margin-top: 50px;
+}
+
+.sconti{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 470px;
+    border-radius: 0;
+}
+
 .nove{
-    background-color: rgb(0, 0, 128);
+    background-color: rgb(14, 14, 54);
+}
+
+.box-ps-now{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    vertical-align: middle;
+    margin-top: 120px;
+    margin-left: 60px;
+}
+
+.ps-now-logo{
+    width: 60%;
+    margin-bottom: 30px;
+}
+
+.text-ps-now-logo{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 420px;
+    margin-left: 48px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.text-ps-now-logo-title{
+    font-size: 30px;
+    line-height: 40px;
+    font-weight:500;
+}
+
+.text-ps-now-logo-description{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight:500;
+    color: white;
+}
+
+.pulsante-cinque{
+    color: black;
+    font-weight: bold;
 }
 
 .ps-now{
