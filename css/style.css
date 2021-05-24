@@ -231,12 +231,12 @@ button{
     bottom: 90px;
 }
 
-.returnal{
+.ittakestwo{
     width: 60%;
     margin-left: 38px;
 }
 
-.text-returnal{
+.text-ittakestwo{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     max-width: 420px;
@@ -245,7 +245,7 @@ button{
     line-height: 30px;
 }
 
-.text-returnal-title{
+.text-ittakestwo-title{
     font-size: 30px;
     line-height: 40px;
     font-weight:500;
@@ -260,10 +260,20 @@ button{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     padding-top: 50px;
+    padding-bottom: 50px;
     padding-left: 30px;
     padding-right: 30px;
     line-height: 50px;
     font-size: 25px;
+}
+
+.t-c{
+    width: 200px;
+}
+
+.descrizione-nuove-uscite{
+    line-height: 35px;
+    font-size: 20px;
 }
 
 .seven, .eight, .nine, .twelve{
