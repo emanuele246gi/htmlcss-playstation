@@ -313,7 +313,46 @@ button{
 }
 
 .sette{
-    background-color: gray;
+    background-color: rgb(180, 180, 180);
+}
+
+.box-ps-plus{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    vertical-align: middle;
+    margin-top: 120px;
+    margin-left: 60px;
+}
+
+.ps-plus-logo{
+    width: 60%;
+    margin-left: 38px;
+}
+
+.text-ps-plus-logo{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 420px;
+    margin-left: 48px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.text-ps-plus-logo-title{
+    font-size: 30px;
+    line-height: 40px;
+    font-weight:500;
+}
+
+.text-ps-plus-logo-description{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight:500;
+}
+
+.pulsante-quattro{
+    color: cornflowerblue;
+    font-weight: bold;
 }
 
 .ps-plus{
